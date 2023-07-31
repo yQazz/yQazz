@@ -1,3 +1,11 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{
+    Title = "qazz script",
+    Text = "loading",
+    Icon = "rbxassetid://57254792";
+Duration = 5;
+})
+
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/Cracks/main/yBloodz/Premium"))()
 
 local old;
