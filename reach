@@ -1,3 +1,7 @@
+local whilest = {
+
+"akqkqhwhqhqhw",
+
 
 if table.find(whitelist, game.Players.LocalPlayer.Name) then
         local id = game.PlaceId
