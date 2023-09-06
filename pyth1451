@@ -1,6 +1,0 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "pyth1451",
-    Text = "get fucked njgga",
-    Icon = "rbxassetid://57254792";
-Duration = 5;
-}}
